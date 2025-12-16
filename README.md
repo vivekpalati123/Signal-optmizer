@@ -1,5 +1,4 @@
 # Signal Optimizer 🚦
-pora pilla abacha
 ## Description
 This project simulates traffic flow at junctions and optimizes signal timings
 based on vehicle count using Basic and Adaptive optimization strategies.
